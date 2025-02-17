@@ -15,9 +15,9 @@ const greeting = {
   nickname: "Dishant",
   full_name: "Dishant Singh",
   subTitle:
-    "Full Stack Developer, Competitive Coder, Open Source Enthusiast 🔥. Always learning.",
+    "SDET, Competitive Gamer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1dgNyFbyqsAnQ8TD3JZL6THesT-mKVy5R/view?usp=sharing",
+    "https://drive.google.com/file/d/1D0p6xlkz0Ug4mo5xJKK5LsQuY_qCv-Z7/view?usp=drive_link",
   mail: "dishantsingh1998@gmail.com",
 };
 
@@ -36,15 +36,15 @@ const socialMediaLinks = {
 const skills = {
   data: [
     {
-      title: "Full Stack Development",
+      title: "SDET",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
-        "⚡ Building responsive website front end using ReactJS",
-        "⚡ Creating application backend in Node, Express & MongoDB",
-        "⚡ Integration of third party services such as  AWS, Netlify and Heroku",
-        "⚡ Integration of Payment Gateaway such Stripe,Paypal and Paytm",
-        "⚡ Styling Website with Ant-Design,Material-Ui and Bootstrap",
+        "⚡ Hands-on experience with Selenium (for UI automation)",
+        "⚡ API testing with Postman and  Karate",
+        "⚡ Understanding of Docker and Kubernetes",
+        "⚡ Ability to integrate automated tests into CI/CD pipelines",
+        "⚡ Familiarity with NoSQL databases such as Cassandra",
+        "⚡ Performance tuning and analysis using tools like JMeter or k6",
       ],
       softwareSkills: [
         {
